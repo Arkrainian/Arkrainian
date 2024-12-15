@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Arkrainian
-- 👀 I’m interested in Python,Html,Css,JS,C++,C,Java,Ruby,Rust, and Go
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Pygame,Websites,and GoLang
-- 📫 How to reach me Check my Website Arkrainian.github.io for more details
+![cinema](https://github.com/user-attachments/assets/b4460c3c-9cef-4201-b179-d14578fdeeb2)
